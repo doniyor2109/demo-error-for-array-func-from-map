@@ -1,0 +1,10 @@
+{
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["array-func"],
+  "rules": {
+    "array-func/from-map": "error"
+  }
+}
